@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on small c++ projects that spark my interest.
-- 🌱 I’m currently learning c++
-- 🤔 I’m looking for help with motivation.
-- ⚡ Fun fact: I'm named after a car.
+- I’m currently working on small c++ projects that spark my interest.
+- I’m currently learning c++
+- I’m looking for help with motivation.
+- Fun fact: I'm named after a car.
 
